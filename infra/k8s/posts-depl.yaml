@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: levelasquez/posts:0.0.1
+          image: levelasquez/posts:0.0.2
